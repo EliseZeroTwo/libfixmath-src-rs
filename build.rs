@@ -19,6 +19,7 @@ fn main() {
         .host(&host)
         .warnings(false)
         .opt_level(2)
+        .flag("-DFIXMATH_SIN_LUT=1")
         .include(&source_dir)
         .file(source_dir.join("fix16.c"))
         .file(source_dir.join("fix16_exp.c"))
