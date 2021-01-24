@@ -1,8 +1,14 @@
 [package]
 name = "libfixmath-src-rs"
-version = "0.1.0"
 authors = ["EliseZeroTwo <elise@headpat.services>"]
+version = "0.1.0"
+license = "MIT"
+description = "Bindings to libfixmath"
+readme = "README.md"
+repository = "https://github.com/EliseZeroTwo/libfixmath-src-rs/"
 edition = "2018"
+keywords = ["libfixmath"]
+catagories = ["api-bindings", "data-structures"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
