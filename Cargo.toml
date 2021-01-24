@@ -1,5 +1,5 @@
 [package]
-name = "fixmath-src-rs"
+name = "libfixmath-src-rs"
 version = "0.1.0"
 authors = ["EliseZeroTwo <elise@headpat.services>"]
 edition = "2018"
